@@ -1,0 +1,36 @@
+body{
+    background-color: antiquewhite;
+      text-align: center;
+    
+}
+h1{
+    text-align: center;
+    color: black;
+}
+
+div.den{
+    background-image: url(Screenshot_2021-12-20-14-31-10-019_com.viber.voip.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+     height: 1000px;
+    width: 680px;
+    transition: 0.9s;
+}
+
+div.den:hover{
+    background-image: url(IMG_20211220_143356.jpg);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+     height: 1000px;
+    width: 680px;
+    border-radius:30px;
+    transition: 0.9s;
+}
